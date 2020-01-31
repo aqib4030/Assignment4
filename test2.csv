@@ -1,3 +1,0 @@
-device_type.name,device_type.value.0.name,device_type.value.0.value.name,device_type.value.0.value.0.value.command,device_type.value.1.value.name,device_type.value.0.value.1.value.command,device_type.value.1.name,device_type.value.1.value.0.value.command,device_type.value.2.name,device_type.value.2.value.name,device_type.value.2.value.0.value.command
-A102,track,single track,track my vehcilce,double track,track my vehcilce,Initalize,Initalize device##,Authroization ,Set Authorization,admin123456 XXXXXXXX
-B103,track,single track,track my vehcilce,,,Initalize,Initalize device##,Authroization ,Set Authorization,admin123456 XXXXXXXX
